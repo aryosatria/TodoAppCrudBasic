@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "700292769301",
+    "firebase_url": "https://todoappcrudbasic-d5a5c.firebaseio.com",
+    "project_id": "todoappcrudbasic-d5a5c",
+    "storage_bucket": "todoappcrudbasic-d5a5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700292769301:android:8b0dfbcc04747782f9901c",
+        "android_client_info": {
+          "package_name": "com.aryosatria.todoappcrudbasic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700292769301-nsindecc6bka3nrlqkcgl0josuq92jjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aryosatria.todoappcrudbasic",
+            "certificate_hash": "9bec5cc53f9a64d8e77ae3d453c3ed6582ed76f2"
+          }
+        },
+        {
+          "client_id": "700292769301-sgi7k6e8r997nh1sv3joag7h5e5vh7fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4l3VhkC-IHTCm0_-4K6wY0Cy2exsBv7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700292769301-sgi7k6e8r997nh1sv3joag7h5e5vh7fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
